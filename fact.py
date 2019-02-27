@@ -1,2 +1,3 @@
+import math
 put = int(input())
-print(fact(put))
+print(math.factorial(put))
